@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20Digital%20Space&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+</p>
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Gimhani+Jayamanna;Creating+Digital+Experiences" alt="Typing SVG" />
@@ -13,10 +15,6 @@
 </div>
 
 <br>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20Digital%20Space&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
-</p>
 
 ---
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
