@@ -6,13 +6,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Gimhani+Jayamanna;Creating+Digital+Experiences" alt="Typing SVG" />
 
 </div>
-<h3 align="center">Software Engineer | UI/UX Designer | Full-Stack Developer</h3>
-
-<div align="center">
-  
-<img src="https://komarev.com/ghpvc/?username=gimhanijayamanna&label=Profile%20views&color=6366F1&style=for-the-badge" alt="gimhanijayamanna" />
-
-</div>
+<h3 align="center">IT Undergraduate | Web Application Development and UI/UX Enthusiast</h3>
 
 <br>
 
